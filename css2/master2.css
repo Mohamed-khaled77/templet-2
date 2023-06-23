@@ -431,6 +431,11 @@ header nav .form i{
 .portfolio .shuffle li.active{
   background-color: var(--min-color);
   color: white;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
 }
 .portfolio .imgs-container{
   display: flex;
@@ -494,6 +499,11 @@ color: var(--min-color);
   margin: 30px auto;
   text-transform: uppercase;
   text-decoration: none;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
 }
 /* end portfolio */
 /* start video */
